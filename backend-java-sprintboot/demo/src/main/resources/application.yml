@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/sprint-database
+    username: postgres
+    password: djmaickxd
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update # Puedes usar "create" para que se creen las tablas en cada ejecución
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    show-sql: true # Esto es opcional, para mostrar las consultas SQL en la consola
