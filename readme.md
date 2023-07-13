@@ -11,7 +11,7 @@ El backend esta echo en Sprint Boot, y se usa gradle para su desarrollo, por fav
 # Para el frontend
 El frontend usa un template de mi uso personal, que usa la ultima version de Vuejs, Vite, TailwindCss, ElementPluss, AutoImports, etc.. para el óptimo y rápido desarrollo.
 
-Aquí en link del started kit de mi uso: <link>https://github.com/MaickDavila/vue3-vite-multilayout-tailwind-elementPlus.git</link>
+Aquí el link del started kit de mi uso: <link>https://github.com/MaickDavila/vue3-vite-multilayout-tailwind-elementPlus.git</link>
 
 Solo se debe hacer:
 * npm i
